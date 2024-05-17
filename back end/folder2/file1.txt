@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+this is a test
+this is the first change 1
+
+
+this an other test
+
+///////////////+////////////
+this an other test 2
+=======
 this is a not a test
 this is a second change
 
@@ -5,3 +15,4 @@ this is 3rd line
 
 this is 4rd line
 
+>>>>>>> a8e7978365154a9fe028e32ed61a83e1104e57c7
