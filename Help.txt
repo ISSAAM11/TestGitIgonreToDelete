@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is the help file content
 test
+=======
+this is a conflict text
+>>>>>>> 213e235b2f94fe760205d3c3c8e3b793a7b98a55
